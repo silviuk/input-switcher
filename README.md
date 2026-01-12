@@ -1,3 +1,9 @@
+### _0 - silviuk update:_
+_Forked for my own setup from https://github.com/marcelhoffs/input-switcher. Changes:_
+- _my Windows is on channel 2, Linux on channel 3 - scripts renamed accordingly_
+- _I use MX Keys and MX Master 3 on Bluetooth, so commands updated accordingly_
+- _on Linux, I couldn't get the right hidapitester params, so I'm temporarily using solaar commands instead_
+
 # Logitech MX - Input Switcher
 
 # 1 - Introduction
